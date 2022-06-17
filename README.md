@@ -15,9 +15,6 @@
 [![NPM Downloads](https://img.shields.io/npm/dm/react-native-ui-lib.svg?style=flat)](https://www.npmjs.com/package/react-native-ui-lib)
 <a href="https://twitter.com/rnuilib"><img src="https://img.shields.io/twitter/follow/rnuilib.svg?style=flat&colorA=1DA1F2&colorB=20303C&label=Follow%20us%20on%20Twitter" alt="Follow on Twitter"></a>
 
-Check out our [Docs](https://wix.github.io/react-native-ui-lib/). <br>
-Our [Discord Channel](https://discord.gg/2eW4g6Z)
-
 Download our Expo demo app <br>
 <img height="120" src="https://user-images.githubusercontent.com/1780255/76164023-f2171400-6153-11ea-962d-d57b64a08a80.png"> <br>
 (You will need the Expo App)
